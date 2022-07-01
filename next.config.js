@@ -3,6 +3,10 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   env: {},
+  webpack: (config, { dev }) => {
+    config.resolve.extensions = ['', '.js', '.jsx', '.ts', '.tsx'];
+    return config;
+  },
   i18n: {
     localeDetection: false,
     locales: ['en', 'fr'],
