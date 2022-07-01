@@ -11,14 +11,14 @@ import { HOME_NAVIGATION } from '../src/components/Molecules/Navbar/content';
 
 const Home: NextPage = () => (
   <>
-    <Layout navigation={HOME_NAVIGATION}>
-      <Landing />
-      <AboutSection id={'about'} />
-      <ProductsSection id={'products'} />
-      <RoadmapSection id={'roadmap'} />
-      <BuySection id={'buy'} />
-      <ArticlesSection id={'articles'} />
-    </Layout>
+    {/*<Layout navbar={[]} footer={[]}>*/}
+    {/*  <Landing />*/}
+    {/*  <AboutSection id={'about'} />*/}
+    {/*  <ProductsSection id={'products'} />*/}
+    {/*  <RoadmapSection id={'roadmap'} />*/}
+    {/*  <BuySection id={'buy'} />*/}
+    {/*  <ArticlesSection id={'articles'} />*/}
+    {/*</Layout>*/}
   </>
 );
 
