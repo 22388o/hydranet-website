@@ -63,7 +63,7 @@ const DexPurposeSection = () => {
             {/* Content area */}
             <div>
               <Caption
-                hashLabel={'First woldwide'}
+                hashLabel={'First worldwide'}
                 title={'On A Mission To Deliver True Decentralization\n'}
               />
               <div className="paragraph mt-6 space-y-6 text-brand-greyed">
