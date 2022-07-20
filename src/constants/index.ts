@@ -5,9 +5,9 @@ export const SUSHISWAP_BUY_LINK =
 export const WHITEBIT_REF_LINK =
   'https://whitebit.com/referral/0b1df51a-c47d-4665-b126-5ba687a9756a';
 
-export const BOND_BUY_LINK = 'https://app.hydranet.ai/#/bonds';
+export const BOND_BUY_LINK = '";
 
-export const HYDRANET_APP = 'https://app.hydranet.ai/#/dashboard';
+export const HYDRANET_APP = '";
 
 export const HYDRANET_MEDIUM_FETCH_URL =
   'https://aiutsa6z6b.execute-api.us-east-1.amazonaws.com/default/hydranet-website-fetch-medium';
