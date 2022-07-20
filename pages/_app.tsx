@@ -16,7 +16,7 @@ function MyApp({ Component, pageProps }: AppProps) {
 
   return (
     <>
-      <title>Hydranet: Bringing Bitcoin to DeFi</title>
+      <title>Layer2Labs: Bringing Bitcoin to World</title>
       <Component {...pageProps} />
     </>
   );
